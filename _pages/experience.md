@@ -7,51 +7,43 @@ author_profile: true
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Head Teaching Assistant, _Robotics_, Sep. 2021 – Present
+Dr. Javanmardi, Amirkabir University of Technology, Tehran
+* Coordinated the teaching assistance team
+* Designed assignments & projects
+* Helped the students with their problems
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Head Teaching Assistant, _Data Mining_, Feb. 2021 – Jun. 2021
+Dr. Nazerfard, Amirkabir University of Technology, Tehran
+* Coordinated the teaching assistance team
+* Designed assignments & projects
+* Helped the students with their problems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Head Teaching Assistant, _Computational Intelligence_, Sep. 2020 – Present
+Prof. Ebadzadeh, Amirkabir University of Technology, Tehran
+* Coordinated the teaching assistance team
+* Designed assignments & quizzes
+* Helped the students with their problems
+
+Teaching Assistant, _Operating Systems_, Sep. 2020 – Present
+Dr. Zarandi, Amirkabir University of Technology, Tehran
+* Designed assignments
+* Created problem-solving videos for the students
+* Helped the students with their problems
+
+Back-End & Front-End Developer Oct. 2019 – Sep. 2020
+[_UTOPIA_](https://utopiapp.ir/index_en.html) - Software company for organizing agriculture, Tehran
+* Designed Back-End GraphQL Schemes
+* Connected the back-end and the front-end using Apollo GraphQL
+
+Educational Manager Mar. 2019 – Sep. 2020
+_Students’ Scientific Chapter of Computer Engineering_, Amirkabir University of Technology, Tehran
+* Elected by students of the department
+* Organized extracurricular courses and presentations
+* Cooperated in holding programming contests
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming Languages: Python, Java, C, C++, MATLAB, VHDL, SQL, JavaScript
+* Frameworks & Libraries: Numpy, Scipy, TensorFlow, PyTorch, Pandas, Matplotlib
+* Development tools: Git, VS Code, Visual Studio, PyCharm, IntelliJ, Vivado

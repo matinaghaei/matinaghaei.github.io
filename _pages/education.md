@@ -19,7 +19,7 @@ Amirkabir Univeristy of Technology, Tehran
   * Information Retrieval: 20 /20
   * Robotics: 20 /20
 
-_Diploma_, Mathematics and Physics, Sep. 2014 – Jun. 2017
+_Diploma_, Mathematics and Physics, Sep. 2014 – Jun. 2017 \\
 National Organization for Development of Exceptional Talents, Karaj
 
 Thesis
