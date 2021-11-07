@@ -7,35 +7,35 @@ author_profile: true
 {% include base_path %}
 
 ### Head Teaching Assistant, _Robotics_, Sep. 2021 – Present
-Dr. Javanmardi, Amirkabir University of Technology, Tehran
+Assistant Prof. Javanmardi, Amirkabir University of Technology, Tehran
 * Coordinated the teaching assistance team
 * Designed assignments & projects
 * Helped the students with their problems
 
 ### Head Teaching Assistant, _Data Mining_, Feb. 2021 – Jun. 2021
-Dr. Nazerfard, Amirkabir University of Technology, Tehran
+[Assistant Prof. Nazerfard](https://aut.ac.ir/cv/2384/EHSAN-NAZERFARD?slc_lang=en&&cv=2384&mod=scv), Amirkabir University of Technology, Tehran
 * Coordinated the teaching assistance team
 * Designed assignments & projects
 * Helped the students with their problems
 
 ### Head Teaching Assistant, _Computational Intelligence_, Sep. 2020 – Present
-Prof. Ebadzadeh, Amirkabir University of Technology, Tehran
+[Prof. Ebadzadeh](https://aut.ac.ir/cv/2130/MOHAMMAD-MEHDI-EBADZADEH?slc_lang=en&&cv=2130&mod=scv), Amirkabir University of Technology, Tehran
 * Coordinated the teaching assistance team
 * Designed assignments & quizzes
 * Helped the students with their problems
 
 ### Teaching Assistant, _Operating Systems_, Sep. 2020 – Present
-Dr. Zarandi, Amirkabir University of Technology, Tehran
+[Associate Prof. Zarandi](https://aut.ac.ir/cv/2188/Hamid-Reza-Zarandi?slc_lang=en&&cv=2188&mod=scv), Amirkabir University of Technology, Tehran
 * Designed assignments
 * Created problem-solving videos for the students
 * Helped the students with their problems
 
-### Back-End & Front-End Developer Oct. 2019 – Sep. 2020
+### Back-End & Front-End Developer, Oct. 2019 – Sep. 2020
 [_UTOPIA_](https://utopiapp.ir/index_en.html) - Software company providing agricultural services, Tehran
 * Designed Back-End GraphQL Schemes
 * Connected the back-end and the front-end using Apollo GraphQL
 
-### Educational Manager Mar. 2019 – Sep. 2020
+### Educational Manager, Mar. 2019 – Sep. 2020
 _Students’ Scientific Chapter of Computer Engineering_, Amirkabir University of Technology, Tehran
 * Elected by students of the department
 * Organized extracurricular courses and presentations
