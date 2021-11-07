@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Education"
 permalink: /education/
 author_profile: true
@@ -27,7 +26,6 @@ _Portfolio Management Using Actor-Critic Reinforcement Learning Algorithms_ [[co
 Supervisor: Prof. Mohammad Mehdi Ebadzadeh
 
 ## Selected Course Projects
-
 ### _Principles and Applications of Artificial Intelligence_
   * Implementation of Natural Language Processing using n-grams [[code](https://github.com/matinaghaei/Natural-Language-Processing)]
   * Implementation of Genetic Algorithm & Simulated Annealing Algorithm for solving Constraint Satisfaction Problem [[code](https://github.com/matinaghaei/Genetic-and-Simulated-Annealing-Algorithms)]
