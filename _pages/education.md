@@ -21,7 +21,7 @@ Amirkabir Univeristy of Technology, Tehran
 ### _Diploma_, Mathematics and Physics, Sep. 2014 – Jun. 2017
 National Organization for Development of Exceptional Talents, Karaj
 
-## Thesis
+## BSc Thesis
 _Portfolio Management Using Actor-Critic Reinforcement Learning Algorithms_ [[code](https://github.com/matinaghaei/Stock-Trading-ActorCriticRL)] \\
 Supervisor: [Prof. Ebadzadeh](https://aut.ac.ir/cv/2130/MOHAMMAD-MEHDI-EBADZADEH?slc_lang=en&&cv=2130&mod=scv)
 

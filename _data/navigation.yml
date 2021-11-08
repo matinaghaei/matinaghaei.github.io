@@ -4,11 +4,14 @@ main:
     url: /education/
 
   - title: "Experience"
-    url: /experience/    
+    url: /experience/
 
   - title: "Projects"
-    url: /projects/    
-    
+    url: /projects/
+
+  - title: "BSc Thesis"
+    url: /bsc-thesis/
+
 #   - title: "Publications"
 #     url: /publications/
 
