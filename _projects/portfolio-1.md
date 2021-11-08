@@ -1,7 +1,19 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Portfolio Management Using Actor-Critic RL"
+excerpt: "Portfolio management using Actor-Critic Deep Reinforcement Learning algorithms including A2C, DDPG, and PPO <a href='https://github.com/matinaghaei/Stock-Trading-ActorCriticRL'>[code]</a><br/><br/><img src='/images/DDPG.png' style='max-width=75%'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project uses Actor-Critic Deep Reinforcement Learning algorithms including A2C, DDPG, and PPO for portfolio management. [[code](https://github.com/matinaghaei/Stock-Trading-ActorCriticRL)]
+
+A2C performance against Buy & Hold:
+
+![](/images/A2C.png)
+
+DDPG performance against Buy & Hold:
+
+![](/images/DDPG.png)
+
+PPO performance against Buy & Hold:
+
+![](/images/PPO.png)
