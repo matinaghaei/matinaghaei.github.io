@@ -1,6 +1,6 @@
 ---
 title: "Compiler"
-excerpt: "Generating Intermediate Code <a href='https://github.com/matinaghaei/Compiler'>[code]</a><br/><br/><img src='/images/compiler.png' style='max-width=75%'>"
+excerpt: "Generating Intermediate Code <a href='https://github.com/matinaghaei/Compiler'>[code]</a><br/><br/><img src='/images/compiler.png'>"
 collection: portfolio
 ---
 

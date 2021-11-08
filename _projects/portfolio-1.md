@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Management Using Actor-Critic RL"
-excerpt: "Portfolio management using Actor-Critic Deep Reinforcement Learning algorithms including A2C, DDPG, and PPO <a href='https://github.com/matinaghaei/Stock-Trading-ActorCriticRL'>[code]</a><br/><br/><img src='/images/DDPG.png' style='max-width=75%'>"
+excerpt: "Portfolio management using Actor-Critic Deep Reinforcement Learning algorithms including A2C, DDPG, and PPO <a href='https://github.com/matinaghaei/Stock-Trading-ActorCriticRL'>[code]</a><br/><br/><img src='/images/DDPG.png'>"
 collection: portfolio
 ---
 

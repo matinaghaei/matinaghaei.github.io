@@ -1,6 +1,6 @@
 ---
 title: "Maze Exploring Controller"
-excerpt: "Exploring a maze by constructing an obstacle map <a href='https://github.com/matinaghaei/Maze-Exploring-Controller'>[code]</a><br/><br/><img src='/images/maze.gif' style='max-width=75%'>"
+excerpt: "Exploring a maze by constructing an obstacle map <a href='https://github.com/matinaghaei/Maze-Exploring-Controller'>[code]</a><br/><br/><img src='/images/maze.gif'>"
 collection: portfolio
 ---
 
