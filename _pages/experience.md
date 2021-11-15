@@ -32,7 +32,7 @@ Assistant Prof. Javanmardi, Amirkabir University of Technology, Tehran
 
 ### Back-End & Front-End Developer, Oct. 2019 – Sep. 2020
 [_UTOPIA_](https://utopiapp.ir/index_en.html) - Software company providing agricultural services, Tehran
-* Designed Back-End GraphQL Schemes
+* Designed GraphQL schemes in the back-end
 * Connected the back-end and the front-end using Apollo GraphQL
 
 ### Educational Manager, Mar. 2019 – Sep. 2020
