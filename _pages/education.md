@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ### _Bachelor of Science_, Computer Science, Sep. 2017 - Dec. 2021 (expected)
-Amirkabir Univeristy of Technology, Tehran
+[Amirkabir University of Technology](https://aut.ac.ir/en), Tehran
 * GPA: 3.86 /4
 * GPA (major-related courses): 4 /4
   * Fundamentals of Programming: 20 /20
@@ -19,7 +19,7 @@ Amirkabir Univeristy of Technology, Tehran
   * Robotics: 20 /20
 
 ### _Diploma_, Mathematics and Physics, Sep. 2014 – Jun. 2017
-National Organization for Development of Exceptional Talents, Karaj
+[the National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents), Karaj
 
 ## [BSc thesis](/bsc-thesis/)
 _Portfolio Management Using Actor-Critic Reinforcement Learning Algorithms_ [[code](https://github.com/matinaghaei/Stock-Trading-ActorCriticRL)] \\
