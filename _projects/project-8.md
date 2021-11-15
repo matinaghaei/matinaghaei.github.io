@@ -3,7 +3,7 @@ title: "Evolutionary Algorithm for Traveling Slalesman Problem"
 excerpt: "Solving Traveling Salesman Problem using Evolutionary Algorithm <a href='https://github.com/matinaghaei/Evolutionary-Algorithm-for-Traveling-Slalesman-Problem'>[code]</a><br/><br/><img src='/images/generated-path.jpg'>"
 collection: projects
 ---
-
+\\
 Solving Traveling Salesman Problem using Evolutionary Algorithm [[code](https://github.com/matinaghaei/Evolutionary-Algorithm-for-Traveling-Slalesman-Problem)]
 
 Initial Path:
