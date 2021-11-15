@@ -10,13 +10,13 @@ author_profile: true
 [Amirkabir University of Technology](https://aut.ac.ir/en), Tehran
 * GPA: 3.86 /4
 * GPA (major-related courses): 4 /4
-  * Fundamentals of Programming: 20 /20
-  * Advanced Programming: 20 /20
-  * Data Structures: 19.75 /20
-  * Algorithm Design: 19.5 /20
-  * Artificial Inteligence: 20 /20
-  * Information Retrieval: 20 /20
   * Robotics: 20 /20
+  * Information Retrieval: 20 /20
+  * Artificial Inteligence: 20 /20
+  * Algorithm Design: 19.5 /20
+  * Data Structures: 19.75 /20
+  * Advanced Programming: 20 /20
+  * Fundamentals of Programming: 20 /20
 
 ### _Diploma_, Mathematics and Physics, Sep. 2014 – Jun. 2017
 [the National Organization for Development of Exceptional Talents](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents), Karaj
