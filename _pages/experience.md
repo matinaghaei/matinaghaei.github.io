@@ -42,6 +42,6 @@ _Students’ Scientific Chapter of Computer Engineering_, Amirkabir University o
 * Cooperated in holding programming contests
 
 ## Skills
-* Programming Languages: Python, Java, C, C++, MATLAB, VHDL, SQL, JavaScript
-* Frameworks & Libraries: Numpy, Scipy, TensorFlow, PyTorch, Pandas, Matplotlib
-* Development tools: Git, VS Code, Visual Studio, PyCharm, IntelliJ, Vivado
+* **Programming Languages:** Python, Java, C, C++, MATLAB, VHDL, SQL, JavaScript
+* **Frameworks & Libraries:** Numpy, Scipy, TensorFlow, PyTorch, Pandas, Matplotlib
+* **Development tools:** Git, VS Code, Visual Studio, PyCharm, IntelliJ, Vivado
