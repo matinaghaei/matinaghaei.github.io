@@ -23,7 +23,7 @@ author_profile: true
 
 ## [BSc thesis](/bsc-thesis/)
 _Portfolio Management Using Actor-Critic Reinforcement Learning Algorithms_ [[code](https://github.com/matinaghaei/Stock-Trading-ActorCriticRL)] \\
-Supervisor: [Prof. Ebadzadeh](https://aut.ac.ir/cv/2130/MOHAMMAD-MEHDI-EBADZADEH?slc_lang=en&&cv=2130&mod=scv)
+Supervisor: [Prof. Ebadzadeh](https://ce.aut.ac.ir/~ebadzadeh/)
 
 ## Selected Course Projects
 ### _Robotics_

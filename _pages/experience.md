@@ -13,7 +13,7 @@ Assistant Prof. Javanmardi, Amirkabir University of Technology, Tehran
 * Helped the students with their problems
 
 ### Head Teaching Assistant, _Computational Intelligence_, Sep. 2020 – Present
-[Prof. Ebadzadeh](https://aut.ac.ir/cv/2130/MOHAMMAD-MEHDI-EBADZADEH?slc_lang=en&&cv=2130&mod=scv), Amirkabir University of Technology, Tehran
+[Prof. Ebadzadeh](https://ce.aut.ac.ir/~ebadzadeh/), Amirkabir University of Technology, Tehran
 * Coordinated the teaching assistance team
 * Designed assignments & quizzes
 * Helped the students with their problems
@@ -25,7 +25,7 @@ Assistant Prof. Javanmardi, Amirkabir University of Technology, Tehran
 * Helped the students with their problems
 
 ### Head Teaching Assistant, _Data Mining_, Feb. 2021 – Jun. 2021
-[Assistant Prof. Nazerfard](https://aut.ac.ir/cv/2384/EHSAN-NAZERFARD?slc_lang=en&&cv=2384&mod=scv), Amirkabir University of Technology, Tehran
+[Assistant Prof. Nazerfard](https://ce.aut.ac.ir/~nazerfard/main.htm), Amirkabir University of Technology, Tehran
 * Coordinated the teaching assistance team
 * Designed assignments & projects
 * Helped the students with their problems
