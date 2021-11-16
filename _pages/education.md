@@ -19,7 +19,7 @@ Amirkabir University of Technology [[website](https://aut.ac.ir/en)], Tehran
   * Fundamentals of Programming: 20 /20
 
 ### _Diploma_, Mathematics and Physics, Sep. 2014 – Jun. 2017
-the National Organization for Development of Exceptional Talents [[wikipedia](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents)], Karaj
+National Organization for Development of Exceptional Talents [[wikipedia](https://en.wikipedia.org/wiki/National_Organization_for_Development_of_Exceptional_Talents)], Karaj
 
 ## BSc thesis [[page](/bsc-thesis/)]
 _Portfolio Management Using Actor-Critic Reinforcement Learning Algorithms_ [[code](https://github.com/matinaghaei/Stock-Trading-ActorCriticRL)] \\
