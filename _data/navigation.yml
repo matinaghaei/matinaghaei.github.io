@@ -10,7 +10,10 @@ main:
     url: /projects/
 
   - title: "BSc Thesis"
-    url: /bsc-thesis/
+    url: /files/Matin_Aghaei_CV.pdf
+
+  - title: "CV"
+  url: /bsc-thesis/
 
 #   - title: "Publications"
 #     url: /publications/
