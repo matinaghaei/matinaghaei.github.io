@@ -18,15 +18,15 @@ The RL algorithms are shown to outperform both benchmarks in terms of annual ret
 
 A2C performance (the first row is converged and the second row is not converged):
 
-![](/images/plots-A2C.png)
+![](/images/plots-A2C.jpg)
 
 DDPG performance (the first row is converged and the second row is not converged):
 
-![](/images/plots-DDPG.png)
+![](/images/plots-DDPG.jpg)
 
 PPO performance (the first row is converged and the second row is not converged):
 
-![](/images/plots-PPO.png)
+![](/images/plots-PPO.jpg)
 
 The algorithms were tested 50 times. The table below shows the mean and standard deviation of the performances in terms of annual return, Sharpe ratio, and maximum drawdown:
 
