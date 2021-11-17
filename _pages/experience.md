@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Head Teaching Assistant, _Robotics_, Sep. 2021 – Present
+### Head Teaching Assistant, _Artificial Intelligence_, Sep. 2021 – Present
 Assistant Prof. Javanmardi, Amirkabir University of Technology, Tehran
 * Coordinated the teaching assistance team
 * Designed assignments & projects
