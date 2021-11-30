@@ -21,7 +21,7 @@ Prof. Ebadzadeh [[homepage](https://ce.aut.ac.ir/~ebadzadeh/)], Amirkabir Univer
 ### Teaching Assistant, _Operating Systems_, Sep. 2020 – Present
 Associate Prof. Zarandi [[homepage](https://aut.ac.ir/cv/2188/Hamid-Reza-Zarandi?slc_lang=en&&cv=2188&mod=scv)], Amirkabir University of Technology, Tehran
 * Designed assignments
-* Created problem-solving contents for the students
+* Created problem-solving content for the students
 * Helped the students with their problems
 
 ### Head Teaching Assistant, _Data Mining_, Feb. 2021 – Jun. 2021
