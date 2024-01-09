@@ -1,9 +1,15 @@
 ---
-title: "2D Soccer Game"
-excerpt: "A top-down football game! <a href='https://github.com/matinaghaei/2D-Soccer-Game'>[code]</a><br/><br/><img src='/images/soccer.gif'>"
+title: "Compiler"
+excerpt: "Generating Intermediate Code [<a href='https://github.com/matinaghaei/Compiler'>code</a>]<br/><br/><img src='/images/compiler.png'>"
 collection: projects
 ---
 \\
-A top-down football game with AI players implemented by Unity! [[code](https://github.com/matinaghaei/2D-Soccer-Game)]
+This project compiles C code into intermediate code. [[code](https://github.com/matinaghaei/Compiler)]
 
-![](/images/soccer.gif)
+### Compiling Merge-Sort Code
+
+![](/images/compiler.png)
+
+### Symbol Tables
+
+![](/images/symbol-tables.png)

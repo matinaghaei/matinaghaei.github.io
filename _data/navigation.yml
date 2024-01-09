@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Education"
-    url: /education/
+  # - title: "Education"
+  #   url: /education/
 
-  - title: "Experience"
-    url: /experience/
+  # - title: "Experience"
+  #   url: /experience/
+
+  - title: "CV"
+    url: /files/Matin_Aghaei_CV.pdf
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "Projects"
     url: /projects/
 
   - title: "BSc Thesis"
     url: /bsc-thesis/
-
-  - title: "CV"
-    url: /files/Matin_Aghaei_CV.pdf
-
-#   - title: "Publications"
-#     url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/    

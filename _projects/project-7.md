@@ -1,13 +1,15 @@
 ---
-title: "Fuzzy C Means Clustering"
-excerpt: "Using FCM algorithm to cluster points on a 2D plane <a href='https://github.com/matinaghaei/Fuzzy-C-means-Clustering'>[code]</a><br/><img src='/images/clusters.png'>"
+title: "Oval and Spiral Traversing Robot"
+excerpt: "A ROS Package: Controlling a Turtlebot on Oval and Spiral paths [<a href='https://github.com/matinaghaei/Oval-and-Spiral-Traversing-Robot'>code</a>]<br/><img src='/images/spiral-path.png'>"
 collection: projects
 ---
 \\
-Using FCM algorithm to cluster points on a 2D plane [[code](https://github.com/matinaghaei/Fuzzy-C-means-Clustering)]
+A robot controller implemented as a ROS package which follows oval and spiral paths [[code](https://github.com/matinaghaei/Oval-and-Spiral-Traversing-Robot)]
 
-Clusters:\\
-![](/images/clusters.png)
+### Oval Path
 
-Decision Borders:\\
-![](/images/decision-borders.png)
+![](/images/oval-path.png)
+
+### Spiral Path
+
+![](/images/spiral-path.png)

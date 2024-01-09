@@ -1,9 +1,23 @@
 ---
-title: "Maze Exploring Controller"
-excerpt: "Exploring a maze by constructing an obstacle map <a href='https://github.com/matinaghaei/Maze-Exploring-Controller'>[code]</a><br/><br/><img src='/images/maze.gif'>"
+title: "Instance Segmentation"
+excerpt: "Object Detection, Semantic Segmentation, and Instance Segmentation on the iSAID dataset [<a href='https://github.com/matinaghaei/Instance-Segmentation'>code</a>]<br/><br/><img src='/images/instance_segmentation.png'>"
 collection: projects
 ---
 \\
-A robot controller implemented as a ROS package which constructs an obstacle map using VFH algorithm and avoids the obstacles in a Gazebo environment using a polar histogram [[code](https://github.com/matinaghaei/Maze-Exploring-Controller)]
+In this project, we designed and trained CNN models to perform Object Detection, Semantic Segmentation, and Instance Segmentation on the iSAID dataset. [[code](https://github.com/matinaghaei/Instance-Segmentation)]
 
-![](/images/maze.gif)
+### Object Detection
+
+<img src="/images/object_detection.png" width="800">
+
+### Semantic Segmentation
+
+<img src="/images/segmentation_input_1.png" width="200"> <img src="/images/segmentation_mask_1.png" width="200">
+
+<img src="/images/segmentation_input_2.png" width="200"> <img src="/images/segmentation_mask_2.png" width="200">
+
+<img src="/images/segmentation_input_3.png" width="200"> <img src="/images/segmentation_mask_3.png" width="200">
+
+### Instance Segmentation
+
+<img src="/images/instance_segmentation.png" width="800">

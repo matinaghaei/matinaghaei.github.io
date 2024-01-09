@@ -1,15 +1,11 @@
 ---
-title: "Compiler"
-excerpt: "Generating Intermediate Code <a href='https://github.com/matinaghaei/Compiler'>[code]</a><br/><br/><img src='/images/compiler.png'>"
+title: "Persian Search Engine"
+excerpt: "A Search Engine for Persian Language [<a href='https://github.com/matinaghaei/Persian-Search-Engine'>code</a>]<br/><br/><img src='/images/query.png'>"
 collection: projects
 ---
 \\
-This project compiles C code into intermediate code. [[code](https://github.com/matinaghaei/Compiler)]
+A search engine for Persian language using inverted index and TF-IDF [[code](https://github.com/matinaghaei/Persian-Search-Engine)]
 
-Compiling merge sort code:
+An example query on Persian pages of Wikipedia:
 
-![](/images/compiler.png)
-
-Symbol tables:
-
-![](/images/symbol-tables.png)
+![](/images/query.png)

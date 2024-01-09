@@ -1,11 +1,9 @@
 ---
-title: "Persian Search Engine"
-excerpt: "A Search Engine for Persian Language <a href='https://github.com/matinaghaei/Persian-Search-Engine'>[code]</a><br/><br/><img src='/images/query.png'>"
+title: "Maze Exploring Controller"
+excerpt: "Exploring a maze by constructing an obstacle map [<a href='https://github.com/matinaghaei/Maze-Exploring-Controller'>code</a>]<br/><br/><img src='/images/maze.gif'>"
 collection: projects
 ---
 \\
-A search engine for Persian language using inverted index and TF-IDF [[code](https://github.com/matinaghaei/Persian-Search-Engine)]
+A robot controller implemented as a ROS package which constructs an obstacle map using VFH algorithm and avoids the obstacles in a Gazebo environment using a polar histogram [[code](https://github.com/matinaghaei/Maze-Exploring-Controller)]
 
-An example query on Persian pages of Wikipedia:
-
-![](/images/query.png)
+![](/images/maze.gif)
