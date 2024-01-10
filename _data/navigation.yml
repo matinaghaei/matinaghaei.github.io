@@ -6,9 +6,6 @@ main:
   # - title: "Experience"
   #   url: /experience/
 
-  - title: "CV"
-    url: /files/Matin_Aghaei_CV.pdf
-
   - title: "Publications"
     url: /publications/
 
@@ -17,6 +14,9 @@ main:
 
   - title: "BSc Thesis"
     url: /bsc-thesis/
+
+  - title: "CV"
+    url: /files/Matin_Aghaei_CV.pdf
 
 #   - title: "Talks"
 #     url: /talks/    
