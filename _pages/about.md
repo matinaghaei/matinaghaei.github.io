@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 \\
-I am a master’s student in Computer Science at [Simon Fraser University](https://www.sfu.ca), working on Reinforcement Learning theory from an optimization perspective. Specifically, my research has resulted in practical entropy-regularized policy gradient algorithms with proven convergence guarantees. The [paper](https://opt-ml.org/papers/2023/paper101.pdf) featuring my work was accepted for an oral presentation **(top-5% contribution)** in [the 2023 NeurIPS OPT Workshop](https://opt-ml.org/papers.html).
+I am a master’s student in Computer Science at [Simon Fraser University](https://www.sfu.ca) with [Sharan Vaswani](https://vaswanis.github.io), working on Reinforcement Learning theory from an optimization perspective. Specifically, my research has resulted in practical entropy-regularized policy gradient algorithms with proven convergence guarantees. The [paper](https://opt-ml.org/papers/2023/paper101.pdf) featuring my work was accepted for an oral presentation **(top-5% contribution)** in [the 2023 NeurIPS OPT Workshop](https://opt-ml.org/papers.html).
 
 From 2017-2022, I studied for a bachelor’s in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/en), which **ranks 2nd** among the country’s universities in computer sciences according to [the 2024 Times thematic ranking](https://www.timeshighereducation.com/world-university-rankings/2024/subject-ranking/computer-science#!/length/25/locations/IRN/sort_by/rank/sort_order/asc/cols/stats). I achieved straight A’s in all computer science courses, earning a **4 /4 major GPA**. My [BSc thesis](/bsc-thesis/) was a comparison between Actor-Critic Reinforcement Learning algorithms for portfolio management.
 
