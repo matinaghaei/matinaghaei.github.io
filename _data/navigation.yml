@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /projects/
-
   - title: "BSc Thesis"
     url: /bsc-thesis/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "CV"
     url: /files/Matin_Aghaei_CV.pdf
